@@ -1,7 +1,7 @@
 # pitchlistgenerator
 A personal tool for generating one-shot pitches for my tabletop group's one-shot nights.
 
-###Instructions
+### Instructions
 1. Ensure you have the latest version by cloning this repo.
 2. Edit any cell in the first sheet of `oneshots.xlsx`. This will randomize the values in the rightmost column, which is how we get our table in the second sheet.
 3. Save `oneshots.xlsx` and close it. Do not forget this step.
