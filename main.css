@@ -1,0 +1,53 @@
+* {
+	font-family: Calibri, sans-serif;
+	background-color:lightgrey;
+}
+
+h1 {
+	margin-bottom:0px;
+	padding-bottom:0;
+}
+
+.subtitle {
+	margin-top:0;
+	padding-top:0;
+}
+
+body,main,html,table{
+	background-color:grey;
+}
+
+header, table{
+	margin-left:10%;
+	margin-right:10%;
+}
+
+table{
+	margin-bottom:45px;
+}
+
+th{
+	font-size:24px;
+}
+
+header{
+	border:1px solid black;
+	padding-left:1%; 
+	padding-right:1%;
+	margin-bottom:10px;
+}
+
+th, td {
+	border:1px solid black;
+	padding:1%;
+	vertical-align:top;
+}
+
+blockquote {
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.md {
+	font-family:Ubuntu Mono, Consolas, sans-serif;
+}
