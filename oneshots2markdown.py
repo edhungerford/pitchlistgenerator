@@ -62,5 +62,6 @@ def main():
     </html>""")
 
     html.close()
-    
-main()
+
+if __name__ == "__main__":
+    main()
